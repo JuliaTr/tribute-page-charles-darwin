@@ -1,0 +1,130 @@
+html{
+  background-color: white;
+  padding: 0 5px;
+  border-radius: 4px;
+}
+
+main {
+  background-color: #ecefe9;
+  
+}
+
+/*Header*/
+#title {
+  margin-top: 20px;
+}
+
+h1 {
+  text-align: center;
+  font-size: 55px;
+  padding-top: 20px;
+}
+
+/*Image*/
+#img-div {
+  background-color: #3a3d37;
+  max-height: 525px;
+  border-radius: 4px;
+  padding-top: 40px;
+  padding-bottom: 10px;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin: auto;
+  border-radius: 4px;
+  
+}
+
+#img-caption {
+  text-align: center;
+  margin: 10px 0;
+  color: white;
+  font-size: 16px;
+}
+
+#tribute-link-image {
+ 
+  font-weight: 800;
+  text-decoration: none;
+}
+
+#tribute-link-image:visited {
+  color: white;
+}
+
+#tribute-link-image:hover {
+  color: #e6eae2
+}
+
+#tribute-link-image:active {
+  color: #ecefe9;
+}
+
+
+
+/*Main facts*/
+#tribute-info {
+  margin-top: 50px;
+  
+  
+}
+
+#tribute-info h2 {
+  text-align: center;
+  font-size: 35px;
+}
+
+ul {
+  margin: 0 auto;
+  display: block; 
+  line-height: 1.5;
+  padding-left: 25%;
+}
+
+li {
+ font-size: 18px;
+ 
+}
+
+#tribute-link {
+  font-weight: bold;
+  text-decoration: none;
+}
+
+#tribute-link:visited {
+  color: black;
+}
+
+#tribute-link:hover {
+  color: #737a6d;
+}
+
+#tribute-link:active {
+  color: #3a3d37;
+}
+
+.bold {
+  font-weight: bold;
+}
+
+/*quote*/
+blockquote {
+  padding-left: 25%;
+  margin-top: 70px;
+  margin: 0 auto;
+  display: block;
+  max-inline-size: 550px;
+  padding-top: 50px;
+}
+
+/*References*/
+#tribute-references {
+  text-align: center;
+  margin-top: 70px;
+  padding-bottom: 20px;
+  font-size: 23px;
+
+}
